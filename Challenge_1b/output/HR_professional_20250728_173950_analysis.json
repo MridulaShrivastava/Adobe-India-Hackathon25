@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "documents": [
+      {
+        "name": "Learn Acrobat - Create and Convert_2",
+        "title": "Retain Some Layers In The Selected Page",
+        "sections_count": 264
+      },
+      {
+        "name": "Learn Acrobat - Export_1",
+        "title": "PDF Portfolio",
+        "sections_count": 327
+      },
+      {
+        "name": "Learn Acrobat - Edit_2",
+        "title": "Make the desired changes in the app. Bear in mind the following:",
+        "sections_count": 161
+      },
+      {
+        "name": "Learn Acrobat - Create and Convert_1",
+        "title": "What’s the best way to create a PDF?",
+        "sections_count": 398
+      },
+      {
+        "name": "The Ultimate PDF Sharing Checklist",
+        "title": "Sharing PDFs can be a breeze with Adobe Acrobat. Whether you're",
+        "sections_count": 64
+      },
+      {
+        "name": "Learn Acrobat - Share_1",
+        "title": "Share",
+        "sections_count": 79
+      },
+      {
+        "name": "Learn Acrobat - Generative AI_2",
+        "title": "Persistent chat history",
+        "sections_count": 63
+      },
+      {
+        "name": "Learn Acrobat - Fill and Sign",
+        "title": "Types of PDF forms",
+        "sections_count": 128
+      },
+      {
+        "name": "Learn Acrobat - Edit_1",
+        "title": "Edit text in a PDF",
+        "sections_count": 88
+      },
+      {
+        "name": "Test Your Acrobat Exporting Skills",
+        "title": "to be a true PDF exporting pro",
+        "sections_count": 25
+      },
+      {
+        "name": "Learn Acrobat - Export_2",
+        "title": "Copy images",
+        "sections_count": 19
+      },
+      {
+        "name": "Learn Acrobat - Request e-signatures_2",
+        "title": "(ALCRM) servers",
+        "sections_count": 78
+      }
+    ],
+    "persona": "HR professional",
+    "job": "Create and manage fillable forms for onboarding and compliance.",
+    "timestamp": "2025-07-28T17:39:50.237763",
+    "processing_time_seconds": 11.48,
+    "total_sections_analyzed": 1694,
+    "top_sections_selected": 10,
+    "config_file": "challenge1b_input (1).json",
+    "specified_documents": 15,
+    "found_documents": 12
+  },
+  "sections": [
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Note:",
+      "importance_rank": 1,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Retain Some Layers In The Selected Page",
+      "importance_rank": 2,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Convert To Adobe PDF",
+      "importance_rank": 3,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Select Visio layers to convert (Acrobat Pro)",
+      "importance_rank": 4,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Acrobat Layers",
+      "importance_rank": 5,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Adobe PDF",
+      "importance_rank": 6,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Retain Some Layers In The Selected Page",
+      "importance_rank": 7,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Note:",
+      "importance_rank": 8,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Retain Some Layers In The Selected Page",
+      "importance_rank": 9,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Convert All Pages In Drawing",
+      "importance_rank": 10,
+      "relevance_score": 1.0,
+      "persona_match": "Generic match",
+      "job_match": "Generic job match"
+    }
+  ],
+  "subsections": [
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Note:",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page, you ll be prompted to choose which Visio layers to include. 1. Click Convert To Adobe PDF, specify a location and filename, and click Save. Select Visio layers to convert (Acrobat Pro) You can convert a Visio drawing that contains layers to a PDF and retain some or all of the layers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers in layer sets, which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and select Retain Some Layers In The Selected Page. Note: If the Retain Some Layers In The Selected Page option is not available, deselect the Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3.",
+      "relevance_score": 1.0,
+      "importance_rank": 1
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Retain Some Layers In The Selected Page",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page, you ll be prompted to choose which Visio layers to include. 1. Click Convert To Adobe PDF, specify a location and filename, and click Save. Select Visio layers to convert (Acrobat Pro) You can convert a Visio drawing that contains layers to a PDF and retain some or all of the layers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers in layer sets, which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and select Retain Some Layers In The Selected Page. Note: If the Retain Some Layers In The Selected Page option is not available, deselect the Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3.",
+      "relevance_score": 1.0,
+      "importance_rank": 2
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Convert To Adobe PDF",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page, you ll be prompted to choose which Visio layers to include. 1. Click Convert To Adobe PDF, specify a location and filename, and click Save. Select Visio layers to convert (Acrobat Pro) You can convert a Visio drawing that contains layers to a PDF and retain some or all of the layers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers in layer sets, which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and select Retain Some Layers In The Selected Page. Note: If the Retain Some Layers In The Selected Page option is not available, deselect the Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3.",
+      "relevance_score": 1.0,
+      "importance_rank": 3
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Select Visio layers to convert (Acrobat Pro)",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page, you ll be prompted to choose which Visio layers to include. 1. Click Convert To Adobe PDF, specify a location and filename, and click Save. Select Visio layers to convert (Acrobat Pro) You can convert a Visio drawing that contains layers to a PDF and retain some or all of the layers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers in layer sets, which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and select Retain Some Layers In The Selected Page. Note: If the Retain Some Layers In The Selected Page option is not available, deselect the Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3.",
+      "relevance_score": 1.0,
+      "importance_rank": 4
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Acrobat Layers",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page, you ll be prompted to choose which Visio layers to include. 1. Click Convert To Adobe PDF, specify a location and filename, and click Save. Select Visio layers to convert (Acrobat Pro) You can convert a Visio drawing that contains layers to a PDF and retain some or all of the layers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers in layer sets, which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and select Retain Some Layers In The Selected Page. Note: If the Retain Some Layers In The Selected Page option is not available, deselect the Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3.",
+      "relevance_score": 1.0,
+      "importance_rank": 5
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Adobe PDF",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page, you ll be prompted to choose which Visio layers to include. 1. Click Convert To Adobe PDF, specify a location and filename, and click Save. Select Visio layers to convert (Acrobat Pro) You can convert a Visio drawing that contains layers to a PDF and retain some or all of the layers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers in layer sets, which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and select Retain Some Layers In The Selected Page. Note: If the Retain Some Layers In The Selected Page option is not available, deselect the Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3.",
+      "relevance_score": 1.0,
+      "importance_rank": 6
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Retain Some Layers In The Selected Page",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page, you ll be prompted to choose which Visio layers to include. 1. Click Convert To Adobe PDF, specify a location and filename, and click Save. Select Visio layers to convert (Acrobat Pro) You can convert a Visio drawing that contains layers to a PDF and retain some or all of the layers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers in layer sets, which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and select Retain Some Layers In The Selected Page. Note: If the Retain Some Layers In The Selected Page option is not available, deselect the Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3.",
+      "relevance_score": 1.0,
+      "importance_rank": 7
+    },
+    {
+      "doc_name": "Learn Acrobat - Create and Convert_2",
+      "page": 1,
+      "section_title": "Note:",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page, you ll be prompted to choose which Visio layers to include. 1. Click Convert To Adobe PDF, specify a location and filename, and click Save. Select Visio layers to convert (Acrobat Pro) You can convert a Visio drawing that contains layers to a PDF and retain some or all of the layers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers in layer sets, which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and select Retain Some Layers In The Selected Page. Note: If the Retain Some Layers In The Selected Page option is not available, deselect the Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3.",
+      "relevance_score": 1.0,
+      "importance_rank": 8
+    }
+  ]
+}
